@@ -19,13 +19,16 @@ Required Datasets:
 
 * Download the GloVe pre-trained embedding from the [GloVe website](https://nlp.stanford.edu/projects/glove/).
 
+Verify Installation:
 
 * git clone https://github.com/anj-s/kdd2018.git
 
-* Start the jupyter notebook by running "jupyter notebook"
+* source activate <your-env>
 
+* Start the Jupyter notebook by running "jupyter notebook"
+ 
 * Verify that you can run Keras and TensorFlow by running the "Verify Installation" jupyter notebook.
 
 
-Please download the datasets in advance to avoid running into netowrk congestion issues.
+Please download the datasets in advance to avoid running into network congestion issues.
 
