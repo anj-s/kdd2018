@@ -3,7 +3,7 @@ Installation instructions
 
 Required packages:
 
-* Install [Anaconda](https://www.anaconda.com/download/#macos) and create an environment that you can use for this workshop.p
+* Install [Anaconda](https://www.anaconda.com/download/#macos) and create an environment that you can use for this workshop.
 
 * Install [TensorFlow](https://www.tensorflow.org/install/). There is a section specific to installing TensorFlow in a conda environment.
 
@@ -23,7 +23,7 @@ Verify Installation:
 
 * git clone https://github.com/anj-s/kdd2018.git
 
-* source activate <your-env>
+* Activate your conda environment using "source activate <my-env>"
 
 * Start the Jupyter notebook by running "jupyter notebook"
  
