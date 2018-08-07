@@ -23,7 +23,7 @@ Verify Installation:
 
 * git clone https://github.com/anj-s/kdd2018.git
 
-* Activate your conda environment using "source activate <my-env>"
+* Activate your conda environment
 
 * Start the Jupyter notebook by running "jupyter notebook"
  
