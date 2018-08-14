@@ -63,6 +63,8 @@ Required Datasets:
 
 * Download the IMDB dataset from this [website](http://ai.stanford.edu/~amaas/data/sentiment/)
 
+* Download the Rotten Tomatoes reviews from the [Kaggle website](https://www.kaggle.com/c/3810/download/train.tsv.zip)
+
 Verify Installation:
 
 * git clone https://github.com/anj-s/kdd2018.git
