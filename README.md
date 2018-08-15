@@ -11,7 +11,6 @@ Section 1:
 * Introduction to Keras
 * How to build and train a model using Keras APIs
 * Using Callbacks
-* Link to colab: 
 
 
 Section 2
@@ -20,7 +19,6 @@ Section 2
 * Data augmentation with  ImageGenerator
 * Feature extraction with pre-trained CNN model
 * Introduciton to Fine Tuning
-* Link to colab:
 
 
 Section 3
@@ -28,7 +26,6 @@ Section 3
 * Word Embeddings in Keras
 * Using pre-trained word embeddings with the Embedding layer
 * Introduction to RNN layers
-* Link to colab:
 
 
 Section 4
@@ -36,12 +33,10 @@ Section 4
 * Workflow for solving Text Classification problems
 * Using a N-gram model
 * Using a Sequence model
-* Link to colab:
 
 
-If you want to run the notebooks in this repo locally, here are the installation instructions and the required datasets.
 
-Installation instructions
+## Installation instructions
 
 Required packages:
 
@@ -65,7 +60,7 @@ Required Datasets:
 
 * Download the Rotten Tomatoes reviews from the [Kaggle website](https://www.kaggle.com/c/3810/download/train.tsv.zip)
 
-Verify Installation:
+## Verify Installation:
 
 * git clone https://github.com/anj-s/kdd2018.git
 
@@ -76,5 +71,5 @@ Verify Installation:
 * Verify that you can run Keras and TensorFlow by running the "Verify Installation" jupyter notebook.
 
 NOTE:
-You will need to modify the data directory paths in the notebooks since you will be pointing to a local directory. 
+During the workshop you will need to modify the data directory paths in the notebooks since you will be pointing to a local directory. 
 
