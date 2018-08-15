@@ -2,7 +2,7 @@
 
 ## What to expect:
 
-This workshop is intended for an audience that is new to Keras with a very basic knowledge of Deep Learning.
+This workshop is intended for an audience that is new to Keras.
 
 Workshop Agenda:
 
