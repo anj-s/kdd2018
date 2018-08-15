@@ -48,6 +48,8 @@ Required packages:
 
 * Install [Pillow](https://pypi.org/project/Pillow/2.2.1/).
 
+* Install [Pandas](https://pandas.pydata.org/pandas-docs/stable/install.html)
+
 * Confirm that TensorBoard is installed.
  
 Required Datasets:
