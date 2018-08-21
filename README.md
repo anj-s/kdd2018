@@ -18,7 +18,7 @@ Section 2
 * Building a CNN model using Keras Layers
 * Data augmentation with  ImageGenerator
 * Feature extraction with pre-trained CNN model
-* Introduciton to Fine Tuning
+* Introduction to Fine Tuning
 
 
 Section 3
